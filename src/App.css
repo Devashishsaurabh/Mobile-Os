@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  width:50%;
+  margin:auto;
+  margin-top:20px;
 }
 
 .App-logo {
